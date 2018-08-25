@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Benchmarking Head Pose Estimation In-the-Wild</title>
+      <link>https://bobetocalo.github.io/publication/ciarp17/</link>
+      <pubDate>Sun, 25 Feb 2018 12:34:43 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/publication/ciarp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Head-Pose Estimation In-the-Wild Using a Random Forest</title>
       <link>https://bobetocalo.github.io/publication/amdo16/</link>
       <pubDate>Sun, 24 Jul 2016 13:02:52 +0200</pubDate>
