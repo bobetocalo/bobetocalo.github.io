@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on ROBERTO VALLE</title>
+    <link>https://bobetocalo.github.io/project/</link>
+    <description>Recent content in Projects on ROBERTO VALLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 25 Aug 2016 16:41:30 +0200</lastBuildDate>
+    
+	<atom:link href="https://bobetocalo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human behaviour supervision using multiple sensors</title>
+      <link>https://bobetocalo.github.io/project/spaces/</link>
+      <pubDate>Thu, 25 Aug 2016 16:41:30 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/project/spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facade localization</title>
+      <link>https://bobetocalo.github.io/project/graffter/</link>
+      <pubDate>Tue, 25 Aug 2015 13:14:37 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/project/graffter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCR for ID documents</title>
+      <link>https://bobetocalo.github.io/project/ocr/</link>
+      <pubDate>Sat, 25 Feb 2012 16:31:19 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/project/ocr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

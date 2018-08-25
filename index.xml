@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Deeply-initialized Coarse-to-fine Ensemble of Regression Trees for Face Alignment</title>
+      <link>https://bobetocalo.github.io/publication/eccv18/</link>
+      <pubDate>Sat, 25 Aug 2018 17:13:11 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/publication/eccv18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Benchmarking Head Pose Estimation In-the-Wild</title>
       <link>https://bobetocalo.github.io/publication/ciarp17/</link>
       <pubDate>Sun, 25 Feb 2018 12:34:43 +0200</pubDate>
@@ -20,11 +29,38 @@
     </item>
     
     <item>
+      <title>Human behaviour supervision using multiple sensors</title>
+      <link>https://bobetocalo.github.io/project/spaces/</link>
+      <pubDate>Thu, 25 Aug 2016 16:41:30 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/project/spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Head-Pose Estimation In-the-Wild Using a Random Forest</title>
       <link>https://bobetocalo.github.io/publication/amdo16/</link>
       <pubDate>Sun, 24 Jul 2016 13:02:52 +0200</pubDate>
       
       <guid>https://bobetocalo.github.io/publication/amdo16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facade localization</title>
+      <link>https://bobetocalo.github.io/project/graffter/</link>
+      <pubDate>Tue, 25 Aug 2015 13:14:37 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/project/graffter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCR for ID documents</title>
+      <link>https://bobetocalo.github.io/project/ocr/</link>
+      <pubDate>Sat, 25 Feb 2012 16:31:19 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/project/ocr/</guid>
       <description></description>
     </item>
     
