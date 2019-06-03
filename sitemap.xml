@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://bobetocalo.github.io/publication/cviu19/</loc>
+      <lastmod>2019-06-03T12:42:23+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://bobetocalo.github.io/publication/ciarp18/</loc>
       <lastmod>2018-10-04T14:24:00+02:00</lastmod>
     </url>
@@ -24,7 +33,7 @@
     <url>
     
       <loc>https://bobetocalo.github.io/publication/ciarp17/</loc>
-      <lastmod>2018-02-25T12:34:43+02:00</lastmod>
+      <lastmod>2017-02-25T12:34:43+02:00</lastmod>
     </url>
     
   
@@ -97,6 +106,16 @@
     
       <loc>https://bobetocalo.github.io/publication_types/1/</loc>
       <lastmod>2018-10-04T14:24:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://bobetocalo.github.io/publication_types/2/</loc>
+      <lastmod>2019-06-03T12:42:23+02:00</lastmod>
       <priority>0</priority>
     </url>
     

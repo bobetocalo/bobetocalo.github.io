@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Face Alignment using a 3D Deeply-initialized Ensemble of Regression Trees</title>
+      <link>https://bobetocalo.github.io/publication/cviu19/</link>
+      <pubDate>Mon, 03 Jun 2019 12:42:23 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/publication/cviu19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Facial Landmarks Detection using a Cascade of Recombinator Networks</title>
       <link>https://bobetocalo.github.io/publication/ciarp18/</link>
       <pubDate>Thu, 04 Oct 2018 14:24:00 +0200</pubDate>
@@ -31,7 +40,7 @@
     <item>
       <title>Benchmarking Head Pose Estimation In-the-Wild</title>
       <link>https://bobetocalo.github.io/publication/ciarp17/</link>
-      <pubDate>Sun, 25 Feb 2018 12:34:43 +0200</pubDate>
+      <pubDate>Sat, 25 Feb 2017 12:34:43 +0200</pubDate>
       
       <guid>https://bobetocalo.github.io/publication/ciarp17/</guid>
       <description></description>

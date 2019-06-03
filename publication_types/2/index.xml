@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on ROBERTO VALLE</title>
+    <link>https://bobetocalo.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on ROBERTO VALLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 03 Jun 2019 12:42:23 +0200</lastBuildDate>
+    
+	<atom:link href="https://bobetocalo.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Face Alignment using a 3D Deeply-initialized Ensemble of Regression Trees</title>
+      <link>https://bobetocalo.github.io/publication/cviu19/</link>
+      <pubDate>Mon, 03 Jun 2019 12:42:23 +0200</pubDate>
+      
+      <guid>https://bobetocalo.github.io/publication/cviu19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
