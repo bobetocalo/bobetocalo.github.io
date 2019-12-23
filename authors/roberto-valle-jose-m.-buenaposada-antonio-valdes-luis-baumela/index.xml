@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberto Valle, José M. Buenaposada, Antonio Valdés, Luis Baumela | ROBERTO VALLE</title>
+    <link>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</link>
+      <atom:link href="https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberto Valle, José M. Buenaposada, Antonio Valdés, Luis Baumela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 03 Jun 2019 12:42:23 +0200</lastBuildDate>
+    <image>
+      <url>https://bobetocalo.github.io/img/icon-192.png</url>
+      <title>Roberto Valle, José M. Buenaposada, Antonio Valdés, Luis Baumela</title>
+      <link>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</link>
+    </image>
+    
+    <item>
+      <title>Face Alignment using a 3D Deeply-initialized Ensemble of Regression Trees</title>
+      <link>https://bobetocalo.github.io/publication/cviu19/</link>
+      <pubDate>Mon, 03 Jun 2019 12:42:23 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/publication/cviu19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deeply-initialized Coarse-to-fine Ensemble of Regression Trees for Face Alignment</title>
+      <link>https://bobetocalo.github.io/publication/eccv18/</link>
+      <pubDate>Sat, 25 Aug 2018 17:13:11 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/publication/eccv18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head-Pose Estimation In-the-Wild Using a Random Forest</title>
+      <link>https://bobetocalo.github.io/publication/amdo16/</link>
+      <pubDate>Sun, 24 Jul 2016 13:02:52 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/publication/amdo16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ROBERTO VALLE on ROBERTO VALLE</title>
+    <title>ROBERTO VALLE</title>
     <link>https://bobetocalo.github.io/</link>
-    <description>Recent content in ROBERTO VALLE on ROBERTO VALLE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://bobetocalo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>ROBERTO VALLE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 03 Oct 2019 12:42:23 +0200</lastBuildDate>
+    <image>
+      <url>https://bobetocalo.github.io/img/icon-192.png</url>
+      <title>ROBERTO VALLE</title>
+      <link>https://bobetocalo.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Cascade of encoder-decoder CNNs with learned coordinates regressor for robust facial landmarks detection</title>
+      <link>https://bobetocalo.github.io/publication/prl19/</link>
+      <pubDate>Thu, 03 Oct 2019 12:42:23 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/publication/prl19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Face Alignment using a 3D Deeply-initialized Ensemble of Regression Trees</title>
       <link>https://bobetocalo.github.io/publication/cviu19/</link>
       <pubDate>Mon, 03 Jun 2019 12:42:23 +0200</pubDate>
-      
       <guid>https://bobetocalo.github.io/publication/cviu19/</guid>
       <description></description>
     </item>
@@ -23,7 +32,6 @@
       <title>Facial Landmarks Detection using a Cascade of Recombinator Networks</title>
       <link>https://bobetocalo.github.io/publication/ciarp18/</link>
       <pubDate>Thu, 04 Oct 2018 14:24:00 +0200</pubDate>
-      
       <guid>https://bobetocalo.github.io/publication/ciarp18/</guid>
       <description></description>
     </item>
@@ -32,7 +40,6 @@
       <title>A Deeply-initialized Coarse-to-fine Ensemble of Regression Trees for Face Alignment</title>
       <link>https://bobetocalo.github.io/publication/eccv18/</link>
       <pubDate>Sat, 25 Aug 2018 17:13:11 +0200</pubDate>
-      
       <guid>https://bobetocalo.github.io/publication/eccv18/</guid>
       <description></description>
     </item>
@@ -41,7 +48,6 @@
       <title>Benchmarking Head Pose Estimation In-the-Wild</title>
       <link>https://bobetocalo.github.io/publication/ciarp17/</link>
       <pubDate>Sat, 25 Feb 2017 12:34:43 +0200</pubDate>
-      
       <guid>https://bobetocalo.github.io/publication/ciarp17/</guid>
       <description></description>
     </item>
@@ -49,17 +55,17 @@
     <item>
       <title>Human behaviour supervision using multiple sensors</title>
       <link>https://bobetocalo.github.io/project/spaces/</link>
-      <pubDate>Thu, 25 Aug 2016 16:41:30 +0200</pubDate>
-      
+      <pubDate>Sun, 01 Jan 2017 16:31:19 +0200</pubDate>
       <guid>https://bobetocalo.github.io/project/spaces/</guid>
-      <description></description>
+      <description>&lt;p&gt;This project is the first step towards the construction of a full system that semantically describes people and their activities, by detecting different anomalies in their behavior.
+In this case, a fundamental component is the extraction of information from the human face to estimate visual semantic attributes (e.g., young woman wearing glasses is looking right). This research is part of two projects, SPACES-UPM, TIN2013-47630-C2-2-R, (&lt;a href=&#34;http://www.geintra-uah.org/spaces/en&#34;&gt;http://www.geintra-uah.org/spaces/en&lt;/a&gt;) and HEIMDAL-UPM, TIN2016-75982-C2-2-R, (&lt;a href=&#34;http://www.geintra-uah.org/heimdal/en/introduction),&#34;&gt;http://www.geintra-uah.org/heimdal/en/introduction),&lt;/a&gt; funded by the Spanish Ministry of Economy and Competitiveness.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Head-Pose Estimation In-the-Wild Using a Random Forest</title>
       <link>https://bobetocalo.github.io/publication/amdo16/</link>
       <pubDate>Sun, 24 Jul 2016 13:02:52 +0200</pubDate>
-      
       <guid>https://bobetocalo.github.io/publication/amdo16/</guid>
       <description></description>
     </item>
@@ -67,19 +73,22 @@
     <item>
       <title>Facade localization</title>
       <link>https://bobetocalo.github.io/project/graffter/</link>
-      <pubDate>Tue, 25 Aug 2015 13:14:37 +0200</pubDate>
-      
+      <pubDate>Sun, 01 Feb 2015 16:31:19 +0200</pubDate>
       <guid>https://bobetocalo.github.io/project/graffter/</guid>
-      <description></description>
+      <description>&lt;p&gt;Research and develop on algorithms for localization of buildings (with repetitive structures) on video streams. The application renders the live camera preview frame on the display to represent a superimposed image over the building.&lt;/p&gt;
+&lt;p&gt;Work funded by The Graffter S.L. (&lt;a href=&#34;http://www.thegraffter.com/es/&#34;&gt;http://www.thegraffter.com/es/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Demo: &lt;a href=&#34;https://www.youtube.com/watch?v=hIj3VY6du0k&#34;&gt;https://www.youtube.com/watch?v=hIj3VY6du0k&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>OCR for ID documents</title>
       <link>https://bobetocalo.github.io/project/ocr/</link>
-      <pubDate>Sat, 25 Feb 2012 16:31:19 +0200</pubDate>
-      
+      <pubDate>Wed, 01 Feb 2012 16:31:19 +0200</pubDate>
       <guid>https://bobetocalo.github.io/project/ocr/</guid>
-      <description></description>
+      <description>&lt;p&gt;The goal of the project was to read, in short video streams, the three OCR lines of the Spanish ID documents. OCR lines appears also on other countries passports (our software is valid for this other documents also with minimal customization). In this project we developed a full prototype using C++ and OpenCV on GNU/Linux. Unfortunately the company gave up on the project before the full validation of the prototype so we have the software and the project available to any interested company.&lt;/p&gt;
+&lt;p&gt;Demo: &lt;a href=&#34;https://www.youtube.com/watch?v=3CaBmIKTO6Y&#34;&gt;https://www.youtube.com/watch?v=3CaBmIKTO6Y&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

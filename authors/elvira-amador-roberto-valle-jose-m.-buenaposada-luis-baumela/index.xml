@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elvira Amador, Roberto Valle, José M. Buenaposada, Luis Baumela | ROBERTO VALLE</title>
+    <link>https://bobetocalo.github.io/authors/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</link>
+      <atom:link href="https://bobetocalo.github.io/authors/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elvira Amador, Roberto Valle, José M. Buenaposada, Luis Baumela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 25 Feb 2017 12:34:43 +0200</lastBuildDate>
+    <image>
+      <url>https://bobetocalo.github.io/img/icon-192.png</url>
+      <title>Elvira Amador, Roberto Valle, José M. Buenaposada, Luis Baumela</title>
+      <link>https://bobetocalo.github.io/authors/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking Head Pose Estimation In-the-Wild</title>
+      <link>https://bobetocalo.github.io/publication/ciarp17/</link>
+      <pubDate>Sat, 25 Feb 2017 12:34:43 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/publication/ciarp17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

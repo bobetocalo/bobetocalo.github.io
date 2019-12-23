@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | ROBERTO VALLE</title>
+    <link>https://bobetocalo.github.io/authors/</link>
+      <atom:link href="https://bobetocalo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 03 Oct 2019 12:42:23 +0200</lastBuildDate>
+    <image>
+      <url>https://bobetocalo.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://bobetocalo.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Roberto Valle, José M. Buenaposada, Luis Baumela</title>
+      <link>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-luis-baumela/</link>
+      <pubDate>Thu, 03 Oct 2019 12:42:23 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-luis-baumela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Valle, José M. Buenaposada, Antonio Valdés, Luis Baumela</title>
+      <link>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</link>
+      <pubDate>Mon, 03 Jun 2019 12:42:23 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Diego López, Roberto Valle, Luis Baumela</title>
+      <link>https://bobetocalo.github.io/authors/pedro-diego-lopez-roberto-valle-luis-baumela/</link>
+      <pubDate>Thu, 04 Oct 2018 14:24:00 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/authors/pedro-diego-lopez-roberto-valle-luis-baumela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elvira Amador, Roberto Valle, José M. Buenaposada, Luis Baumela</title>
+      <link>https://bobetocalo.github.io/authors/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</link>
+      <pubDate>Sat, 25 Feb 2017 12:34:43 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/authors/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bobetocalo.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bobetocalo.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently a PhD student at the Technical University of Madrid in the &lt;a href=&#34;http://www.dia.fi.upm.es/~pcr/research.html&#34;&gt;PCR Computer Vision Lab&lt;/a&gt; under the supervision of Luis Baumela and José Miguel Buenaposada. My current interests are in facial analysis problems such as face detection, head-pose estimation, landmarks features localization and visual attributes description.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
