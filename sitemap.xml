@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bobetocalo.github.io/publication_types/2/</loc>
+    <loc>https://bobetocalo.github.io/publication-type/2/</loc>
     <lastmod>2019-10-03T12:42:23+02:00</lastmod>
   </url>
   
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-luis-baumela/</loc>
+    <loc>https://bobetocalo.github.io/author/roberto-valle-jose-m.-buenaposada-luis-baumela/</loc>
     <lastmod>2019-10-03T12:42:23+02:00</lastmod>
   </url>
   
@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>https://bobetocalo.github.io/authors/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</loc>
+    <loc>https://bobetocalo.github.io/author/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</loc>
     <lastmod>2019-06-03T12:42:23+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bobetocalo.github.io/publication_types/1/</loc>
+    <loc>https://bobetocalo.github.io/publication-type/1/</loc>
     <lastmod>2018-10-04T14:24:00+02:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://bobetocalo.github.io/authors/pedro-diego-lopez-roberto-valle-luis-baumela/</loc>
+    <loc>https://bobetocalo.github.io/author/pedro-diego-lopez-roberto-valle-luis-baumela/</loc>
     <lastmod>2018-10-04T14:24:00+02:00</lastmod>
   </url>
   
@@ -73,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://bobetocalo.github.io/authors/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</loc>
+    <loc>https://bobetocalo.github.io/author/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</loc>
     <lastmod>2017-02-25T12:34:43+02:00</lastmod>
   </url>
   
@@ -103,10 +103,6 @@
   </url>
   
   <url>
-    <loc>https://bobetocalo.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
     <loc>https://bobetocalo.github.io/categories/</loc>
   </url>
   
@@ -116,6 +112,10 @@
   
   <url>
     <loc>https://bobetocalo.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bobetocalo.github.io/author/roberto-valle/</loc>
   </url>
   
   <url>
