@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bobetocalo.github.io/project/satellite/</loc>
+    <lastmod>2020-09-01T16:31:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bobetocalo.github.io/project/</loc>
+    <lastmod>2020-09-01T16:31:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bobetocalo.github.io/</loc>
+    <lastmod>2020-09-01T16:31:19+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bobetocalo.github.io/publication-type/2/</loc>
     <lastmod>2019-10-03T12:42:23+02:00</lastmod>
   </url>
@@ -24,11 +39,6 @@
   
   <url>
     <loc>https://bobetocalo.github.io/publication/</loc>
-    <lastmod>2019-10-03T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bobetocalo.github.io/</loc>
     <lastmod>2019-10-03T12:42:23+02:00</lastmod>
   </url>
   
@@ -79,11 +89,6 @@
   
   <url>
     <loc>https://bobetocalo.github.io/project/spaces/</loc>
-    <lastmod>2017-01-01T16:31:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bobetocalo.github.io/project/</loc>
     <lastmod>2017-01-01T16:31:19+02:00</lastmod>
   </url>
   

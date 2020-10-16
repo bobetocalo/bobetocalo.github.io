@@ -5,12 +5,23 @@
     <link>https://bobetocalo.github.io/</link>
       <atom:link href="https://bobetocalo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ROBERTO VALLE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 12:42:23 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 16:31:19 +0200</lastBuildDate>
     <image>
       <url>https://bobetocalo.github.io/images/icon_hu2ceb5a202b4bf68ce775a929fa5c5b5f_34380_512x512_fill_lanczos_center_2.png</url>
       <title>ROBERTO VALLE</title>
       <link>https://bobetocalo.github.io/</link>
     </image>
+    
+    <item>
+      <title>Counting cars in satellite images</title>
+      <link>https://bobetocalo.github.io/project/satellite/</link>
+      <pubDate>Tue, 01 Sep 2020 16:31:19 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/project/satellite/</guid>
+      <description>&lt;p&gt;Motivated by the fact that Coronavirus Disease (COVID-19) pandemic has caused worldwide turmoil in a short period of time since December 2019, we estimate the negative impact of COVID-19 lockdown in the capital of Spain, Madrid, using commercial satellite imagery courtesy of Maxar Technologies©. The authorities in Spain are adopting all necessary measures, including urban mobility restrictions, to contain the spread of the virus and mitigate its impact on the national economy, which leave signatures in satellite images that can be automatically detected and classified. We focus on the development of a car-counting solution to monitor the presence of visible cars within high-resolution images.&lt;/p&gt;
+&lt;p&gt;Document: &lt;a href=&#34;https://bobetocalo.github.io/pdf/bdexp20.pdf&#34;&gt;https://bobetocalo.github.io/pdf/bdexp20.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Demo: &lt;a href=&#34;https://www.youtube.com/watch?v=iJq0BnK9upQ&#34;&gt;https://www.youtube.com/watch?v=iJq0BnK9upQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cascade of encoder-decoder CNNs with learned coordinates regressor for robust facial landmarks detection</title>
