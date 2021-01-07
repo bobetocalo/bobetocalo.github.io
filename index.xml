@@ -5,12 +5,20 @@
     <link>https://bobetocalo.github.io/</link>
       <atom:link href="https://bobetocalo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ROBERTO VALLE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 16:31:19 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 12:42:23 +0200</lastBuildDate>
     <image>
       <url>https://bobetocalo.github.io/images/icon_hu2ceb5a202b4bf68ce775a929fa5c5b5f_34380_512x512_fill_lanczos_center_2.png</url>
       <title>ROBERTO VALLE</title>
       <link>https://bobetocalo.github.io/</link>
     </image>
+    
+    <item>
+      <title>Multi-task head pose estimation in-the-wild</title>
+      <link>https://bobetocalo.github.io/publication/pami20/</link>
+      <pubDate>Tue, 22 Dec 2020 12:42:23 +0200</pubDate>
+      <guid>https://bobetocalo.github.io/publication/pami20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Counting cars in satellite images</title>
