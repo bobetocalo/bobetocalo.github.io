@@ -1,135 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://bobetocalo.github.io/publication-type/2/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/authors/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/pami20/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication_types/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/author/roberto-valle-jose-m.-buenaposada-luis-baumela/</loc>
     <lastmod>2020-12-22T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/project/satellite/</loc>
     <lastmod>2020-09-01T16:31:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/project/</loc>
     <lastmod>2020-09-01T16:31:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/prl19/</loc>
     <lastmod>2019-10-03T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/cviu19/</loc>
     <lastmod>2019-06-03T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/author/roberto-valle-jose-m.-buenaposada-antonio-valdes-luis-baumela/</loc>
     <lastmod>2019-06-03T12:42:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication-type/1/</loc>
     <lastmod>2018-10-04T14:24:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/ciarp18/</loc>
     <lastmod>2018-10-04T14:24:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/author/pedro-diego-lopez-roberto-valle-luis-baumela/</loc>
     <lastmod>2018-10-04T14:24:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/eccv18/</loc>
     <lastmod>2018-08-25T17:13:11+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/ciarp17/</loc>
     <lastmod>2017-02-25T12:34:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/author/elvira-amador-roberto-valle-jose-m.-buenaposada-luis-baumela/</loc>
     <lastmod>2017-02-25T12:34:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/project/spaces/</loc>
     <lastmod>2017-01-01T16:31:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/publication/amdo16/</loc>
     <lastmod>2016-07-24T13:02:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/project/graffter/</loc>
     <lastmod>2015-02-01T16:31:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/project/ocr/</loc>
     <lastmod>2012-02-01T16:31:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/author/roberto-valle/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bobetocalo.github.io/tags/</loc>
   </url>
-  
 </urlset>
