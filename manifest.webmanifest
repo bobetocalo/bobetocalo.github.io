@@ -1,0 +1,18 @@
+{
+  "name": "ROBERTO VALLE",
+  "short_name": "ROBERTO VALLE",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/images/icon_hu2ceb5a202b4bf68ce775a929fa5c5b5f_34380_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu2ceb5a202b4bf68ce775a929fa5c5b5f_34380_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
